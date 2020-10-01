@@ -139,7 +139,7 @@ const App = () => {
         className="ui center aligned header"
         style={{ marginTop: '50px', marginBottom: '50px' }}
       >
-        Kevin Reyes Portfolio
+        Programming Portfolio of Kevin Reyes 
       </h2>
       <h2
         className="ui center aligned header"
